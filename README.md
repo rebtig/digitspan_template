@@ -1,4 +1,4 @@
-This demo implements a digit span task in PsychoPy in which responses are recorded through a mouse click. Visual feedback is provided to confirm that each digit click has been registered.
+This demo implements a digit span task in PsychoPy in which responses are recorded through a mouse click. Visual feedback is provided to confirm that each digit click has been registered. PsychoPy must be installed on your device for this to run.
 
 For APA (7th edition) please cite as:
 
