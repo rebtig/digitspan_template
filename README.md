@@ -2,7 +2,7 @@ This demo implements a digit span task in PsychoPy in which responses are record
 
 For APA (7th edition) please cite as:
 
-Mifsud, R. (2024, October 29). Digit span template [Computer software]. PsychoPy. https://doi.org/10.17605/OSF.IO/87BNX
+Mifsud, R. (2024, October 29). Digit span template [Computer software]. PsychoPy. https://doi.org/10.17605/OSF.IO/HJ2EY
 
 The date is the most recent substantial commit on Gitlab.
 
